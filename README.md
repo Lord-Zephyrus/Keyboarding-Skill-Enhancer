@@ -1,0 +1,2 @@
+# Keyboarding-Skill-Enhancer
+Keyboarding Skill Enhancer is a platform where you can fully explore the functionalities of a keyboard, have hands on experience in typing, challenge yourself and eventually put yourself in a position to compete with the fast moving world. It can be used in organizations for training newbie recruits and testing speed. It can also be used personally or in educational institutions.
